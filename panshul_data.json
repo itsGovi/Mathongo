@@ -1,23 +1,7 @@
 {
     "personal_data": {
         "name": "Panshul"
-    },
-    "overview": {
-        "marks_scored": 37,
-        "accuracy": 76.92307692307693,
-        "time_taken_in_minutes": 30,
-        "question_attempted": 13,
-        "correct": 10,
-        "incorrect": 3,
-        "unattempted": 47,
-        "notvisited": 30,
-        "attempts_overview": {
-            "perfect": 8,
-            "overtime": 1,
-            "wasted": 0,
-            "confused": 2
-        }
-    },
+    }
     "questions": [
         {
             "ques_number": 1,
