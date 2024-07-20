@@ -1,0 +1,91 @@
+Ques No,Subject,Chapter,Topic,Concept,Level,Type,Time Required
+1,Physics,Units and Dimensions,Dimensions,Dimensional formulae,Easy,singleCorrect,120
+2,Physics,Motion In One Dimension,Graphs of motion in one dimension,velocity time graphs,Tough,singleCorrect,150
+3,Physics,Motion In Two Dimensions,Projectile motion,Time of Flight,Medium,singleCorrect,120
+4,Physics,Motion In One Dimension,Uniform Motion,Equations of Uniform Motion,Easy,singleCorrect,90
+5,Physics,Mathematics in Physics,Fundamentals of Vectors,Unit Vector in any Direction,Easy,singleCorrect,90
+6,Physics,Units and Dimensions,Dimensions,Dimensions of a physical quantity,Medium,singleCorrect,120
+7,Physics,Motion In Two Dimensions,Relative motion,Relative motion in river or air flow,Medium,singleCorrect,90
+8,Physics,Motion In Two Dimensions,Projectile motion,Projectile motion on incline,Easy,singleCorrect,90
+9,Physics,Motion In Two Dimensions,Uniform Circular Motion,Centrifugal Force,Tough,singleCorrect,150
+10,Physics,Motion In One Dimension,Non-uniform Motion,Derivation and use of basic definitions,Medium,singleCorrect,90
+11,Physics,Motion In One Dimension,Rest and Motion,Rest and Motion,Easy,singleCorrect,90
+12,Physics,Motion In Two Dimensions,Uniform Circular Motion,Angular Velocity,Medium,singleCorrect,90
+13,Physics,Units and Dimensions,Dimensions,Dimensions of a physical quantity,Easy,singleCorrect,90
+14,Physics,Motion In One Dimension,Uniform Motion,Equations of Uniform Motion,Tough,singleCorrect,180
+15,Physics,Units and Dimensions,Dimensions,Dimensions of a physical quantity,Easy,singleCorrect,90
+16,Physics,Motion In Two Dimensions,Projectile motion,Range of Projectile,Medium,singleCorrect,120
+17,Physics,Motion In One Dimension,Motion Under Gravity,Freely Falling Bodies,Medium,singleCorrect,120
+18,Physics,Motion In Two Dimensions,Projectile motion,Range of Projectile,Medium,singleCorrect,90
+19,Physics,Mathematics in Physics,Errors of Measurement,Precision and Accuracy,Easy,singleCorrect,60
+20,Physics,Motion In Two Dimensions,Relative motion,Relative velocity,Tough,singleCorrect,120
+21,Physics,Motion In One Dimension,Graphs of motion in one dimension,velocity time graphs,Easy,numerical,90
+22,Physics,Motion In Two Dimensions,Projectile motion,Projectile given horizontal projection,Tough,numerical,180
+23,Physics,Motion In Two Dimensions,Projectile motion,Range of Projectile,Medium,numerical,90
+24,Physics,Mathematics in Physics,Errors of Measurement,Different Methods used to find Error (By taking log),Easy,numerical,90
+25,Physics,Motion In One Dimension,Relative Motion,Relative Motion in 1 D,Tough,numerical,150
+26,Physics,Motion In Two Dimensions,Projectile motion,Equation of trajectory,Medium,numerical,120
+27,Physics,Units and Dimensions,Units,Derived Quantities,Easy,numerical,60
+28,Physics,Motion In Two Dimensions,Projectile motion,Range of Projectile,Medium,numerical,120
+29,Physics,Motion In One Dimension,Rest and Motion,Average Speed,Easy,numerical,90
+30,Physics,Motion In One Dimension,Non-uniform Motion,Derivation and use of basic definitions,Medium,numerical,120
+31,Chemistry,Some Basic Concepts of Chemistry,Concentration terms,Molarity,Easy,singleCorrect,90
+32,Chemistry,Structure of Atom,Dual Behaviour of Matter and Heisenberg Uncertainty Principle,De broglie relation,Medium,singleCorrect,120
+33,Chemistry,Redox Reactions,Balancing of redox reactions,Half reaction method in acidic medium,Tough,singleCorrect,150
+34,Chemistry,Structure of Atom,Dual Behaviour of Matter and Heisenberg Uncertainty Principle,Photoelectric effect,Easy,singleCorrect,90
+35,Chemistry,Some Basic Concepts of Chemistry,Mole concept,Methods to calculate moles from number of particles,Tough,singleCorrect,150
+36,Chemistry,Structure of Atom,Quantum mechanical model,Quantum number,Medium,singleCorrect,90
+37,Chemistry,Structure of Atom,Atomic Models,Cathode ray experiment,Easy,singleCorrect,60
+38,Chemistry,Some Basic Concepts of Chemistry,Quantitative measures in chemical equations,Empirical formula,Medium,singleCorrect,120
+39,Chemistry,Some Basic Concepts of Chemistry,Quantitative measures in chemical equations,Limiting reagent,Medium,singleCorrect,120
+40,Chemistry,Structure of Atom,Hydrogen spectrum,Emission spectrum,Easy,singleCorrect,90
+41,Chemistry,Redox Reactions,Redox titration,Titration using acidified K2Cr2O7,Tough,singleCorrect,210
+42,Chemistry,Structure of Atom,Hydrogen spectrum,Absorption spectrum,Easy,singleCorrect,90
+43,Chemistry,Redox Reactions,Types of redox reactions,Disproportionation reactions,Medium,singleCorrect,120
+44,Chemistry,Structure of Atom,Bohr's model,Energy of electron in nth orbit,Medium,singleCorrect,90
+45,Chemistry,Some Basic Concepts of Chemistry,Concentration terms,Mole fraction,Easy,singleCorrect,60
+46,Chemistry,Some Basic Concepts of Chemistry,Quantitative measures in chemical equations,Empirical formula,Tough,singleCorrect,180
+47,Chemistry,Structure of Atom,Dual Behaviour of Matter and Heisenberg Uncertainty Principle,Photoelectric effect,Easy,singleCorrect,90
+48,Chemistry,Redox Reactions,Oxidation number,Oxidation number of radicals,Medium,singleCorrect,60
+49,Chemistry,Structure of Atom,Quantum mechanical model,Quantum number,Tough,singleCorrect,150
+50,Chemistry,Redox Reactions,Balancing of redox reactions,Half reaction method in acidic medium,Easy,singleCorrect,90
+51,Chemistry,Some Basic Concepts of Chemistry,Quantitative measures in chemical equations,Percentage purity,Medium,numerical,120
+52,Chemistry,Redox Reactions,Equivalence concept,Equivalent weight from n factor,Tough,numerical,150
+53,Chemistry,Structure of Atom,Quantum mechanical model,Quantum number,Tough,numerical,150
+54,Chemistry,Structure of Atom,Dual Behaviour of Matter and Heisenberg Uncertainty Principle,Heisenberg's uncertainty principle,Medium,numerical,90
+55,Chemistry,Some Basic Concepts of Chemistry,Concentration terms,Normality,Easy,numerical,90
+56,Chemistry,Structure of Atom,Hydrogen spectrum,Rydbergs equation,Easy,numerical,60
+57,Chemistry,Redox Reactions,Redox titration,Titration using acidified KMnO4,Tough,numerical,150
+58,Chemistry,Some Basic Concepts of Chemistry,Concentration terms,Weight by weight percentage,Medium,numerical,120
+59,Chemistry,Structure of Atom,Quantum mechanical model,Angular and Radial Nodes,Easy,numerical,90
+60,Chemistry,Some Basic Concepts of Chemistry,Quantitative measures in chemical equations,Vapour density,Medium,numerical,90
+61,Mathematics,Complex Number,Algebra of complex numbers,Algebra of complex numbers,Easy,singleCorrect,120
+62,Mathematics,Basic of Mathematics,Inequalities,basic inequalities,Medium,singleCorrect,180
+63,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Condition for Real Roots,Easy,singleCorrect,150
+64,Mathematics,Complex Number,Geometry of Complex Number,Equation of Circle,Tough,singleCorrect,180
+65,Mathematics,Quadratic Equation,Location of Roots,Question on various cases of Location of Roots,Medium,singleCorrect,180
+66,Mathematics,Quadratic Equation,Range of Quadratic Function,Range of Rational Quadratic Function,Easy,singleCorrect,150
+67,Mathematics,Complex Number,Polar and Euler Form,Questions of Euler Form,Medium,singleCorrect,150
+68,Mathematics,Complex Number,Cube Root of Unity,Cube Root of Unity,Tough,singleCorrect,180
+69,Mathematics,Quadratic Equation,Graph and Sign of Quadratic,Quadratic always positive or always negative,Easy,singleCorrect,150
+70,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Sum and Product of Roots,Tough,singleCorrect,180
+71,Mathematics,Complex Number,"Conjugate, modulus and argument",Questions on properties of modulus,Medium,singleCorrect,150
+72,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Condition for Rational Roots,Medium,singleCorrect,150
+73,Mathematics,Basic of Mathematics,Logarithm,Laws of Logarithm,Easy,singleCorrect,150
+74,Mathematics,Quadratic Equation,N degree equation,relation between roots and coefficients of n degree equation,Medium,singleCorrect,150
+75,Mathematics,Complex Number,"Conjugate, modulus and argument",Questions on properties of argument,Medium,singleCorrect,180
+76,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Sum and Product of Roots,Tough,singleCorrect,210
+77,Mathematics,Complex Number,Geometry of Complex Number,Equation of Circle,Medium,singleCorrect,180
+78,Mathematics,Quadratic Equation,N degree equation,equations reducible to quadratic equation by substitution,Easy,singleCorrect,120
+79,Mathematics,Complex Number,"Conjugate, modulus and argument",Questions on Properties of conjugate,Tough,singleCorrect,210
+80,Mathematics,Basic of Mathematics,Inequalities,basic inequalities,Easy,singleCorrect,90
+81,Mathematics,Complex Number,Cube Root of Unity,Cube Root of Unity,Medium,numerical,180
+82,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Condition for Imaginary roots,Easy,numerical,120
+83,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Sum and Product of Roots,Tough,numerical,180
+84,Mathematics,Complex Number,"Conjugate, modulus and argument",Solving roots of Complex equations,Medium,numerical,180
+85,Mathematics,Quadratic Equation,Relation between Roots and Coefficients,Sum and Product of Roots,Easy,numerical,150
+86,Mathematics,Complex Number,Geometry of Complex Number,Equation of Circle,Tough,numerical,210
+87,Mathematics,Complex Number,"Conjugate, modulus and argument",Questions on properties of modulus,Medium,numerical,150
+88,Mathematics,Complex Number,Polar and Euler Form,Questions of Euler Form,Easy,numerical,150
+89,Mathematics,Quadratic Equation,N degree equation,Transformation of Equation,Tough,numerical,210
+90,Mathematics,Basic of Mathematics,Logarithm,Laws of Logarithm,Medium,numerical,210
